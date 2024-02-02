@@ -1,0 +1,10 @@
+body {
+  background-image: url(/img/dai.jpg);
+}
+h2,
+h3,
+h4 {
+  opacity: 1;
+  font-size: 40px;
+  color: rgb(119, 0, 255);
+}
